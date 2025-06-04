@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# 🧠 Sistema de Gestión de Preguntas
+# 🧠 Sistema de Gestión de Preguntas (VotingApp)
 
 Aplicación web para crear, editar y eliminar preguntas con opciones dinámicas, desarrollada con **Laravel 11**, **Vue 3**, **Inertia.js** y base de datos **MySQL**.
 
